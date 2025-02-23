@@ -1,0 +1,21 @@
+﻿@model ARS.Models.AdminPanel
+
+<form asp-controller="Admin" asp-action="AdminLogin" method="post">
+    <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+
+    <div class="mb-3">
+        <label asp-for="AdName" class="form-label fw-bold"></label>
+        <input asp-for="AdName" class="form-control" placeholder="Enter Admin Name" />
+        <span asp-validation-for="AdName" class="text-danger"></span>
+    </div>
+
+    <div class="mb-3">
+        <label asp-for="Password" class="form-label fw-bold"></label>
+        <input asp-for="Password" type="password" class="form-control" placeholder="Enter Password" />
+        <span asp-validation-for="Password" class="text-danger"></span>
+    </div>
+
+    <div class="d-grid">
+        <button type="submit" class="btn btn-primary">Login</button>
+    </div>
+</form>

@@ -1,0 +1,912 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\HP\\Downloads\\ARS\\ARS\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F05D1036-75D7-4AAC-812E-5750E6705C84}|ARS.csproj|c:\\users\\hp\\downloads\\ars\\ars\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F05D1036-75D7-4AAC-812E-5750E6705C84}|ARS.csproj|solutionrelative:controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F05D1036-75D7-4AAC-812E-5750E6705C84}|ARS.csproj|c:\\users\\hp\\downloads\\ars\\ars\\models\\contextcs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F05D1036-75D7-4AAC-812E-5750E6705C84}|ARS.csproj|solutionrelative:models\\contextcs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F05D1036-75D7-4AAC-812E-5750E6705C84}|ARS.csproj|c:\\users\\hp\\downloads\\ars\\ars\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F05D1036-75D7-4AAC-812E-5750E6705C84}|ARS.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F05D1036-75D7-4AAC-812E-5750E6705C84}|ARS.csproj|c:\\users\\hp\\downloads\\ars\\ars\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F05D1036-75D7-4AAC-812E-5750E6705C84}|ARS.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F05D1036-75D7-4AAC-812E-5750E6705C84}|ARS.csproj|c:\\users\\hp\\downloads\\ars\\ars\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{F05D1036-75D7-4AAC-812E-5750E6705C84}|ARS.csproj|solutionrelative:scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F05D1036-75D7-4AAC-812E-5750E6705C84}|ARS.csproj|c:\\users\\hp\\downloads\\ars\\ars\\controllers\\flightscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F05D1036-75D7-4AAC-812E-5750E6705C84}|ARS.csproj|solutionrelative:controllers\\flightscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F05D1036-75D7-4AAC-812E-5750E6705C84}|ARS.csproj|c:\\users\\hp\\downloads\\ars\\ars\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F05D1036-75D7-4AAC-812E-5750E6705C84}|ARS.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F05D1036-75D7-4AAC-812E-5750E6705C84}|ARS.csproj|c:\\users\\hp\\downloads\\ars\\ars\\controllers\\ticketreserve_tblcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F05D1036-75D7-4AAC-812E-5750E6705C84}|ARS.csproj|solutionrelative:controllers\\ticketreserve_tblcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F05D1036-75D7-4AAC-812E-5750E6705C84}|ARS.csproj|c:\\users\\hp\\downloads\\ars\\ars\\controllers\\useraccountscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F05D1036-75D7-4AAC-812E-5750E6705C84}|ARS.csproj|solutionrelative:controllers\\useraccountscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F05D1036-75D7-4AAC-812E-5750E6705C84}|ARS.csproj|c:\\users\\hp\\downloads\\ars\\ars\\views\\shared\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F05D1036-75D7-4AAC-812E-5750E6705C84}|ARS.csproj|solutionrelative:views\\shared\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F05D1036-75D7-4AAC-812E-5750E6705C84}|ARS.csproj|c:\\users\\hp\\downloads\\ars\\ars\\views\\shared\\_userlayoutpage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F05D1036-75D7-4AAC-812E-5750E6705C84}|ARS.csproj|solutionrelative:views\\shared\\_userlayoutpage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F05D1036-75D7-4AAC-812E-5750E6705C84}|ARS.csproj|c:\\users\\hp\\downloads\\ars\\ars\\views\\shared\\_userloginform.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F05D1036-75D7-4AAC-812E-5750E6705C84}|ARS.csproj|solutionrelative:views\\shared\\_userloginform.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F05D1036-75D7-4AAC-812E-5750E6705C84}|ARS.csproj|c:\\users\\hp\\downloads\\ars\\ars\\views\\shared\\_adminlayoutpage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F05D1036-75D7-4AAC-812E-5750E6705C84}|ARS.csproj|solutionrelative:views\\shared\\_adminlayoutpage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F05D1036-75D7-4AAC-812E-5750E6705C84}|ARS.csproj|c:\\users\\hp\\downloads\\ars\\ars\\views\\admin\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F05D1036-75D7-4AAC-812E-5750E6705C84}|ARS.csproj|solutionrelative:views\\admin\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F05D1036-75D7-4AAC-812E-5750E6705C84}|ARS.csproj|c:\\users\\hp\\downloads\\ars\\ars\\views\\shared\\_search.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F05D1036-75D7-4AAC-812E-5750E6705C84}|ARS.csproj|solutionrelative:views\\shared\\_search.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F05D1036-75D7-4AAC-812E-5750E6705C84}|ARS.csproj|c:\\users\\hp\\downloads\\ars\\ars\\views\\flights\\search.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F05D1036-75D7-4AAC-812E-5750E6705C84}|ARS.csproj|solutionrelative:views\\flights\\search.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F05D1036-75D7-4AAC-812E-5750E6705C84}|ARS.csproj|c:\\users\\hp\\downloads\\ars\\ars\\views\\user\\userdetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F05D1036-75D7-4AAC-812E-5750E6705C84}|ARS.csproj|solutionrelative:views\\user\\userdetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F05D1036-75D7-4AAC-812E-5750E6705C84}|ARS.csproj|c:\\users\\hp\\downloads\\ars\\ars\\models\\adminlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F05D1036-75D7-4AAC-812E-5750E6705C84}|ARS.csproj|solutionrelative:models\\adminlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F05D1036-75D7-4AAC-812E-5750E6705C84}|ARS.csproj|c:\\users\\hp\\downloads\\ars\\ars\\views\\flightbookings\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F05D1036-75D7-4AAC-812E-5750E6705C84}|ARS.csproj|solutionrelative:views\\flightbookings\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F05D1036-75D7-4AAC-812E-5750E6705C84}|ARS.csproj|c:\\users\\hp\\downloads\\ars\\ars\\views\\user\\bookflight.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F05D1036-75D7-4AAC-812E-5750E6705C84}|ARS.csproj|solutionrelative:views\\user\\bookflight.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F05D1036-75D7-4AAC-812E-5750E6705C84}|ARS.csproj|c:\\users\\hp\\downloads\\ars\\ars\\migrations\\20250221221908_initialresync.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F05D1036-75D7-4AAC-812E-5750E6705C84}|ARS.csproj|solutionrelative:migrations\\20250221221908_initialresync.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F05D1036-75D7-4AAC-812E-5750E6705C84}|ARS.csproj|c:\\users\\hp\\downloads\\ars\\ars\\views\\user\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F05D1036-75D7-4AAC-812E-5750E6705C84}|ARS.csproj|solutionrelative:views\\user\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F05D1036-75D7-4AAC-812E-5750E6705C84}|ARS.csproj|c:\\users\\hp\\downloads\\ars\\ars\\views\\shared\\_adminloginform.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F05D1036-75D7-4AAC-812E-5750E6705C84}|ARS.csproj|solutionrelative:views\\shared\\_adminloginform.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F05D1036-75D7-4AAC-812E-5750E6705C84}|ARS.csproj|c:\\users\\hp\\downloads\\ars\\ars\\views\\admin\\adminlogin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F05D1036-75D7-4AAC-812E-5750E6705C84}|ARS.csproj|solutionrelative:views\\admin\\adminlogin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F05D1036-75D7-4AAC-812E-5750E6705C84}|ARS.csproj|c:\\users\\hp\\downloads\\ars\\ars\\views\\user\\searchflights.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F05D1036-75D7-4AAC-812E-5750E6705C84}|ARS.csproj|solutionrelative:views\\user\\searchflights.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F05D1036-75D7-4AAC-812E-5750E6705C84}|ARS.csproj|c:\\users\\hp\\downloads\\ars\\ars\\views\\shared\\_usersignupform.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F05D1036-75D7-4AAC-812E-5750E6705C84}|ARS.csproj|solutionrelative:views\\shared\\_usersignupform.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F05D1036-75D7-4AAC-812E-5750E6705C84}|ARS.csproj|c:\\users\\hp\\downloads\\ars\\ars\\views\\user\\signup.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F05D1036-75D7-4AAC-812E-5750E6705C84}|ARS.csproj|solutionrelative:views\\user\\signup.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F05D1036-75D7-4AAC-812E-5750E6705C84}|ARS.csproj|c:\\users\\hp\\downloads\\ars\\ars\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F05D1036-75D7-4AAC-812E-5750E6705C84}|ARS.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F05D1036-75D7-4AAC-812E-5750E6705C84}|ARS.csproj|c:\\users\\hp\\downloads\\ars\\ars\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F05D1036-75D7-4AAC-812E-5750E6705C84}|ARS.csproj|solutionrelative:controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F05D1036-75D7-4AAC-812E-5750E6705C84}|ARS.csproj|c:\\users\\hp\\downloads\\ars\\ars\\views\\useraccounts\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F05D1036-75D7-4AAC-812E-5750E6705C84}|ARS.csproj|solutionrelative:views\\useraccounts\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F05D1036-75D7-4AAC-812E-5750E6705C84}|ARS.csproj|c:\\users\\hp\\downloads\\ars\\ars\\views\\useraccounts\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F05D1036-75D7-4AAC-812E-5750E6705C84}|ARS.csproj|solutionrelative:views\\useraccounts\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F05D1036-75D7-4AAC-812E-5750E6705C84}|ARS.csproj|c:\\users\\hp\\downloads\\ars\\ars\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F05D1036-75D7-4AAC-812E-5750E6705C84}|ARS.csproj|solutionrelative:views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F05D1036-75D7-4AAC-812E-5750E6705C84}|ARS.csproj|c:\\users\\hp\\downloads\\ars\\ars\\views\\flights\\searchresults.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F05D1036-75D7-4AAC-812E-5750E6705C84}|ARS.csproj|solutionrelative:views\\flights\\searchresults.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F05D1036-75D7-4AAC-812E-5750E6705C84}|ARS.csproj|c:\\users\\hp\\downloads\\ars\\ars\\controllers\\aeroplanecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F05D1036-75D7-4AAC-812E-5750E6705C84}|ARS.csproj|solutionrelative:controllers\\aeroplanecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F05D1036-75D7-4AAC-812E-5750E6705C84}|ARS.csproj|c:\\users\\hp\\downloads\\ars\\ars\\views\\aeroplane\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F05D1036-75D7-4AAC-812E-5750E6705C84}|ARS.csproj|solutionrelative:views\\aeroplane\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F05D1036-75D7-4AAC-812E-5750E6705C84}|ARS.csproj|c:\\users\\hp\\downloads\\ars\\ars\\migrations\\20250220223912_flights.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F05D1036-75D7-4AAC-812E-5750E6705C84}|ARS.csproj|solutionrelative:migrations\\20250220223912_flights.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F05D1036-75D7-4AAC-812E-5750E6705C84}|ARS.csproj|c:\\users\\hp\\downloads\\ars\\ars\\controllers\\flightbookingscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F05D1036-75D7-4AAC-812E-5750E6705C84}|ARS.csproj|solutionrelative:controllers\\flightbookingscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F05D1036-75D7-4AAC-812E-5750E6705C84}|ARS.csproj|c:\\users\\hp\\downloads\\ars\\ars\\views\\flights\\book.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F05D1036-75D7-4AAC-812E-5750E6705C84}|ARS.csproj|solutionrelative:views\\flights\\book.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F05D1036-75D7-4AAC-812E-5750E6705C84}|ARS.csproj|c:\\users\\hp\\downloads\\ars\\ars\\views\\aeroplane\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F05D1036-75D7-4AAC-812E-5750E6705C84}|ARS.csproj|solutionrelative:views\\aeroplane\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F05D1036-75D7-4AAC-812E-5750E6705C84}|ARS.csproj|c:\\users\\hp\\downloads\\ars\\ars\\views\\useraccounts\\bookinghistory.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F05D1036-75D7-4AAC-812E-5750E6705C84}|ARS.csproj|solutionrelative:views\\useraccounts\\bookinghistory.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F05D1036-75D7-4AAC-812E-5750E6705C84}|ARS.csproj|c:\\users\\hp\\downloads\\ars\\ars\\views\\flights\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F05D1036-75D7-4AAC-812E-5750E6705C84}|ARS.csproj|solutionrelative:views\\flights\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F05D1036-75D7-4AAC-812E-5750E6705C84}|ARS.csproj|c:\\users\\hp\\downloads\\ars\\ars\\views\\aeroplane\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F05D1036-75D7-4AAC-812E-5750E6705C84}|ARS.csproj|solutionrelative:views\\aeroplane\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F05D1036-75D7-4AAC-812E-5750E6705C84}|ARS.csproj|c:\\users\\hp\\downloads\\ars\\ars\\views\\aeroplane\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F05D1036-75D7-4AAC-812E-5750E6705C84}|ARS.csproj|solutionrelative:views\\aeroplane\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F05D1036-75D7-4AAC-812E-5750E6705C84}|ARS.csproj|c:\\users\\hp\\downloads\\ars\\ars\\views\\aeroplane\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F05D1036-75D7-4AAC-812E-5750E6705C84}|ARS.csproj|solutionrelative:views\\aeroplane\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F05D1036-75D7-4AAC-812E-5750E6705C84}|ARS.csproj|c:\\users\\hp\\downloads\\ars\\ars\\migrations\\20250220203320_adminloginupdate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F05D1036-75D7-4AAC-812E-5750E6705C84}|ARS.csproj|solutionrelative:migrations\\20250220203320_adminloginupdate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F05D1036-75D7-4AAC-812E-5750E6705C84}|ARS.csproj|c:\\users\\hp\\downloads\\ars\\ars\\migrations\\20250219213033_initialsetup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F05D1036-75D7-4AAC-812E-5750E6705C84}|ARS.csproj|solutionrelative:migrations\\20250219213033_initialsetup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F05D1036-75D7-4AAC-812E-5750E6705C84}|ARS.csproj|c:\\users\\hp\\downloads\\ars\\ars\\views\\useraccounts\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F05D1036-75D7-4AAC-812E-5750E6705C84}|ARS.csproj|solutionrelative:views\\useraccounts\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F05D1036-75D7-4AAC-812E-5750E6705C84}|ARS.csproj|c:\\users\\hp\\downloads\\ars\\ars\\views\\useraccounts\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F05D1036-75D7-4AAC-812E-5750E6705C84}|ARS.csproj|solutionrelative:views\\useraccounts\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F05D1036-75D7-4AAC-812E-5750E6705C84}|ARS.csproj|c:\\users\\hp\\downloads\\ars\\ars\\views\\useraccounts\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F05D1036-75D7-4AAC-812E-5750E6705C84}|ARS.csproj|solutionrelative:views\\useraccounts\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F05D1036-75D7-4AAC-812E-5750E6705C84}|ARS.csproj|c:\\users\\hp\\downloads\\ars\\ars\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F05D1036-75D7-4AAC-812E-5750E6705C84}|ARS.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F05D1036-75D7-4AAC-812E-5750E6705C84}|ARS.csproj|c:\\users\\hp\\downloads\\ars\\ars\\ars.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{F05D1036-75D7-4AAC-812E-5750E6705C84}|ARS.csproj|solutionrelative:ars.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F05D1036-75D7-4AAC-812E-5750E6705C84}|ARS.csproj|c:\\users\\hp\\downloads\\ars\\ars\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F05D1036-75D7-4AAC-812E-5750E6705C84}|ARS.csproj|solutionrelative:views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F05D1036-75D7-4AAC-812E-5750E6705C84}|ARS.csproj|c:\\users\\hp\\downloads\\ars\\ars\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{F05D1036-75D7-4AAC-812E-5750E6705C84}|ARS.csproj|solutionrelative:web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 283,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{131369f2-062d-44a2-8671-91ff31efb4f4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Downloads\\ARS\\ARS\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\HP\\Downloads\\ARS\\ARS\\Controllers\\UserController.cs",
+              "RelativeToolTip": "Controllers\\UserController.cs",
+              "ViewState": "AgIAAFoAAAAAAAAAAAAYwGwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T20:31:57.049Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TicketReserve_tblController.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Downloads\\ARS\\ARS\\Controllers\\TicketReserve_tblController.cs",
+              "RelativeDocumentMoniker": "Controllers\\TicketReserve_tblController.cs",
+              "ToolTip": "C:\\Users\\HP\\Downloads\\ARS\\ARS\\Controllers\\TicketReserve_tblController.cs",
+              "RelativeToolTip": "Controllers\\TicketReserve_tblController.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwJwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T21:20:02.06Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Downloads\\ARS\\ARS\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\HP\\Downloads\\ARS\\ARS\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAA1wBEAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T22:39:50.664Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FlightsController.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Downloads\\ARS\\ARS\\Controllers\\FlightsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\FlightsController.cs",
+              "ToolTip": "C:\\Users\\HP\\Downloads\\ARS\\ARS\\Controllers\\FlightsController.cs",
+              "RelativeToolTip": "Controllers\\FlightsController.cs",
+              "ViewState": "AgIAAKAAAAAAAAAAAAAcwDMAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T22:41:12.602Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ScaffoldingReadMe.txt",
+              "DocumentMoniker": "C:\\Users\\HP\\Downloads\\ARS\\ARS\\ScaffoldingReadMe.txt",
+              "RelativeDocumentMoniker": "ScaffoldingReadMe.txt",
+              "ToolTip": "C:\\Users\\HP\\Downloads\\ARS\\ARS\\ScaffoldingReadMe.txt",
+              "RelativeToolTip": "ScaffoldingReadMe.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-02-19T22:39:23.301Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Downloads\\ARS\\ARS\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\HP\\Downloads\\ARS\\ARS\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAgwDIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T21:06:12.752Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\HP\\Downloads\\ARS\\ARS\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\HP\\Downloads\\ARS\\ARS\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-19T21:04:11.872Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ContextCS.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Downloads\\ARS\\ARS\\Models\\ContextCS.cs",
+              "RelativeDocumentMoniker": "Models\\ContextCS.cs",
+              "ToolTip": "C:\\Users\\HP\\Downloads\\ARS\\ARS\\Models\\ContextCS.cs",
+              "RelativeToolTip": "Models\\ContextCS.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAqwB0AAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T20:54:34.015Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UserAccountsController.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Downloads\\ARS\\ARS\\Controllers\\UserAccountsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\UserAccountsController.cs",
+              "ToolTip": "C:\\Users\\HP\\Downloads\\ARS\\ARS\\Controllers\\UserAccountsController.cs",
+              "RelativeToolTip": "Controllers\\UserAccountsController.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAJkAAABQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T14:43:51.993Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "index.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\Downloads\\ARS\\ARS\\Views\\Shared\\index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\index.cshtml",
+              "ToolTip": "C:\\Users\\HP\\Downloads\\ARS\\ARS\\Views\\Shared\\index.cshtml",
+              "RelativeToolTip": "Views\\Shared\\index.cshtml",
+              "ViewState": "AgIAACYBAAAAAAAAAAAgwDgBAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-21T20:03:18.31Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "dashboard.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\Downloads\\ARS\\ARS\\Views\\Admin\\dashboard.cshtml",
+              "RelativeDocumentMoniker": "Views\\Admin\\dashboard.cshtml",
+              "ToolTip": "C:\\Users\\HP\\Downloads\\ARS\\ARS\\Views\\Admin\\dashboard.cshtml",
+              "RelativeToolTip": "Views\\Admin\\dashboard.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-20T15:39:18.125Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "_search.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\Downloads\\ARS\\ARS\\Views\\Shared\\_search.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_search.cshtml",
+              "ToolTip": "C:\\Users\\HP\\Downloads\\ARS\\ARS\\Views\\Shared\\_search.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_search.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-21T20:19:20.223Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "search.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\Downloads\\ARS\\ARS\\Views\\Flights\\search.cshtml",
+              "RelativeDocumentMoniker": "Views\\Flights\\search.cshtml",
+              "ToolTip": "C:\\Users\\HP\\Downloads\\ARS\\ARS\\Views\\Flights\\search.cshtml",
+              "RelativeToolTip": "Views\\Flights\\search.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-20T23:08:10.932Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "_UserLoginForm.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\Downloads\\ARS\\ARS\\Views\\Shared\\_UserLoginForm.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_UserLoginForm.cshtml",
+              "ToolTip": "C:\\Users\\HP\\Downloads\\ARS\\ARS\\Views\\Shared\\_UserLoginForm.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_UserLoginForm.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-21T22:25:29.585Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "_AdminLayoutPage.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\Downloads\\ARS\\ARS\\Views\\Shared\\_AdminLayoutPage.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_AdminLayoutPage.cshtml",
+              "ToolTip": "C:\\Users\\HP\\Downloads\\ARS\\ARS\\Views\\Shared\\_AdminLayoutPage.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_AdminLayoutPage.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABQAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-19T22:06:39.597Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "_UserLayoutPage.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\Downloads\\ARS\\ARS\\Views\\Shared\\_UserLayoutPage.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_UserLayoutPage.cshtml",
+              "ToolTip": "C:\\Users\\HP\\Downloads\\ARS\\ARS\\Views\\Shared\\_UserLayoutPage.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_UserLayoutPage.cshtml",
+              "ViewState": "AgIAAI0AAAAAAAAAAAAiwJ0AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-20T14:28:52.036Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "UserDetails.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\Downloads\\ARS\\ARS\\Views\\User\\UserDetails.cshtml",
+              "RelativeDocumentMoniker": "Views\\User\\UserDetails.cshtml",
+              "ToolTip": "C:\\Users\\HP\\Downloads\\ARS\\ARS\\Views\\User\\UserDetails.cshtml",
+              "RelativeToolTip": "Views\\User\\UserDetails.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFoAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-21T23:26:12.873Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "AdminLogin.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Downloads\\ARS\\ARS\\Models\\AdminLogin.cs",
+              "RelativeDocumentMoniker": "Models\\AdminLogin.cs",
+              "ToolTip": "C:\\Users\\HP\\Downloads\\ARS\\ARS\\Models\\AdminLogin.cs",
+              "RelativeToolTip": "Models\\AdminLogin.cs",
+              "ViewState": "AgIAAHwAAAAAAAAAAAAwwIcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T20:48:43.481Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\Downloads\\ARS\\ARS\\Views\\FlightBookings\\Details.cshtml",
+              "RelativeDocumentMoniker": "Views\\FlightBookings\\Details.cshtml",
+              "ToolTip": "C:\\Users\\HP\\Downloads\\ARS\\ARS\\Views\\FlightBookings\\Details.cshtml",
+              "RelativeToolTip": "Views\\FlightBookings\\Details.cshtml",
+              "ViewState": "AgIAAEQAAAAAAAAAAAAuwE8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-21T23:03:41.967Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "bookFlight.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\Downloads\\ARS\\ARS\\Views\\User\\bookFlight.cshtml",
+              "RelativeDocumentMoniker": "Views\\User\\bookFlight.cshtml",
+              "ToolTip": "C:\\Users\\HP\\Downloads\\ARS\\ARS\\Views\\User\\bookFlight.cshtml",
+              "RelativeToolTip": "Views\\User\\bookFlight.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAuwCAAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-21T20:55:36.034Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "20250221221908_InitialResync.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Downloads\\ARS\\ARS\\Migrations\\20250221221908_InitialResync.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250221221908_InitialResync.cs",
+              "ToolTip": "C:\\Users\\HP\\Downloads\\ARS\\ARS\\Migrations\\20250221221908_InitialResync.cs",
+              "RelativeToolTip": "Migrations\\20250221221908_InitialResync.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAAwBEAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T22:39:27.663Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "AdminLogin.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\Downloads\\ARS\\ARS\\Views\\Admin\\AdminLogin.cshtml",
+              "RelativeDocumentMoniker": "Views\\Admin\\AdminLogin.cshtml",
+              "ToolTip": "C:\\Users\\HP\\Downloads\\ARS\\ARS\\Views\\Admin\\AdminLogin.cshtml",
+              "RelativeToolTip": "Views\\Admin\\AdminLogin.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-20T18:52:43.803Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "SearchFlights.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\Downloads\\ARS\\ARS\\Views\\User\\SearchFlights.cshtml",
+              "RelativeDocumentMoniker": "Views\\User\\SearchFlights.cshtml",
+              "ToolTip": "C:\\Users\\HP\\Downloads\\ARS\\ARS\\Views\\User\\SearchFlights.cshtml",
+              "RelativeToolTip": "Views\\User\\SearchFlights.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-21T21:50:40.019Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "login.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\Downloads\\ARS\\ARS\\Views\\User\\login.cshtml",
+              "RelativeDocumentMoniker": "Views\\User\\login.cshtml",
+              "ToolTip": "C:\\Users\\HP\\Downloads\\ARS\\ARS\\Views\\User\\login.cshtml",
+              "RelativeToolTip": "Views\\User\\login.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-21T20:42:42.863Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "_AdminLoginForm.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\Downloads\\ARS\\ARS\\Views\\Shared\\_AdminLoginForm.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_AdminLoginForm.cshtml",
+              "ToolTip": "C:\\Users\\HP\\Downloads\\ARS\\ARS\\Views\\Shared\\_AdminLoginForm.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_AdminLoginForm.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-20T19:14:41.965Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "_UserSignupForm.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\Downloads\\ARS\\ARS\\Views\\Shared\\_UserSignupForm.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_UserSignupForm.cshtml",
+              "ToolTip": "C:\\Users\\HP\\Downloads\\ARS\\ARS\\Views\\Shared\\_UserSignupForm.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_UserSignupForm.cshtml",
+              "ViewState": "AgIAABgAAAAAAAAAAAAuwCMAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-21T21:10:48.694Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "signup.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\Downloads\\ARS\\ARS\\Views\\User\\signup.cshtml",
+              "RelativeDocumentMoniker": "Views\\User\\signup.cshtml",
+              "ToolTip": "C:\\Users\\HP\\Downloads\\ARS\\ARS\\Views\\User\\signup.cshtml",
+              "RelativeToolTip": "Views\\User\\signup.cshtml",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAAD8AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-21T20:41:50.106Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\Downloads\\ARS\\ARS\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\HP\\Downloads\\ARS\\ARS\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-19T23:05:30.277Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Downloads\\ARS\\ARS\\Controllers\\AdminController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AdminController.cs",
+              "ToolTip": "C:\\Users\\HP\\Downloads\\ARS\\ARS\\Controllers\\AdminController.cs",
+              "RelativeToolTip": "Controllers\\AdminController.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAYwCkAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T22:35:24.645Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\Downloads\\ARS\\ARS\\Views\\UserAccounts\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\UserAccounts\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\HP\\Downloads\\ARS\\ARS\\Views\\UserAccounts\\Edit.cshtml",
+              "RelativeToolTip": "Views\\UserAccounts\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-20T19:49:54.257Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\Downloads\\ARS\\ARS\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\HP\\Downloads\\ARS\\ARS\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-19T22:47:45.941Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "SearchResults.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\Downloads\\ARS\\ARS\\Views\\Flights\\SearchResults.cshtml",
+              "RelativeDocumentMoniker": "Views\\Flights\\SearchResults.cshtml",
+              "ToolTip": "C:\\Users\\HP\\Downloads\\ARS\\ARS\\Views\\Flights\\SearchResults.cshtml",
+              "RelativeToolTip": "Views\\Flights\\SearchResults.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAF8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-21T19:57:37.022Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\Downloads\\ARS\\ARS\\Views\\UserAccounts\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\UserAccounts\\Index.cshtml",
+              "ToolTip": "C:\\Users\\HP\\Downloads\\ARS\\ARS\\Views\\UserAccounts\\Index.cshtml",
+              "RelativeToolTip": "Views\\UserAccounts\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-20T19:47:26.802Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\Downloads\\ARS\\ARS\\Views\\AeroPlane\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\AeroPlane\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\HP\\Downloads\\ARS\\ARS\\Views\\AeroPlane\\Edit.cshtml",
+              "RelativeToolTip": "Views\\AeroPlane\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-20T21:07:50.608Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "AeroPlaneController.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Downloads\\ARS\\ARS\\Controllers\\AeroPlaneController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AeroPlaneController.cs",
+              "ToolTip": "C:\\Users\\HP\\Downloads\\ARS\\ARS\\Controllers\\AeroPlaneController.cs",
+              "RelativeToolTip": "Controllers\\AeroPlaneController.cs",
+              "ViewState": "AgIAAIkAAAAAAAAAAAAswJwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T20:52:36.414Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "20250220223912_Flights.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Downloads\\ARS\\ARS\\Migrations\\20250220223912_Flights.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250220223912_Flights.cs",
+              "ToolTip": "C:\\Users\\HP\\Downloads\\ARS\\ARS\\Migrations\\20250220223912_Flights.cs",
+              "RelativeToolTip": "Migrations\\20250220223912_Flights.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T22:39:12.945Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "FlightBookingsController.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Downloads\\ARS\\ARS\\Controllers\\FlightBookingsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\FlightBookingsController.cs",
+              "ToolTip": "C:\\Users\\HP\\Downloads\\ARS\\ARS\\Controllers\\FlightBookingsController.cs",
+              "RelativeToolTip": "Controllers\\FlightBookingsController.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAxwJcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T21:17:52.434Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "Book.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\Downloads\\ARS\\ARS\\Views\\Flights\\Book.cshtml",
+              "RelativeDocumentMoniker": "Views\\Flights\\Book.cshtml",
+              "ToolTip": "C:\\Users\\HP\\Downloads\\ARS\\ARS\\Views\\Flights\\Book.cshtml",
+              "RelativeToolTip": "Views\\Flights\\Book.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAsAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-20T23:16:29.66Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\Downloads\\ARS\\ARS\\Views\\AeroPlane\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Views\\AeroPlane\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\HP\\Downloads\\ARS\\ARS\\Views\\AeroPlane\\Delete.cshtml",
+              "RelativeToolTip": "Views\\AeroPlane\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-20T21:07:38.248Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "BookingHistory.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\Downloads\\ARS\\ARS\\Views\\UserAccounts\\BookingHistory.cshtml",
+              "RelativeDocumentMoniker": "Views\\UserAccounts\\BookingHistory.cshtml",
+              "ToolTip": "C:\\Users\\HP\\Downloads\\ARS\\ARS\\Views\\UserAccounts\\BookingHistory.cshtml",
+              "RelativeToolTip": "Views\\UserAccounts\\BookingHistory.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-20T22:51:06.869Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\Downloads\\ARS\\ARS\\Views\\Flights\\Details.cshtml",
+              "RelativeDocumentMoniker": "Views\\Flights\\Details.cshtml",
+              "ToolTip": "C:\\Users\\HP\\Downloads\\ARS\\ARS\\Views\\Flights\\Details.cshtml",
+              "RelativeToolTip": "Views\\Flights\\Details.cshtml",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAAAFYAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-20T22:47:53.807Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\Downloads\\ARS\\ARS\\Views\\AeroPlane\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\AeroPlane\\Index.cshtml",
+              "ToolTip": "C:\\Users\\HP\\Downloads\\ARS\\ARS\\Views\\AeroPlane\\Index.cshtml",
+              "RelativeToolTip": "Views\\AeroPlane\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-20T21:03:28.32Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\Downloads\\ARS\\ARS\\Views\\AeroPlane\\Details.cshtml",
+              "RelativeDocumentMoniker": "Views\\AeroPlane\\Details.cshtml",
+              "ToolTip": "C:\\Users\\HP\\Downloads\\ARS\\ARS\\Views\\AeroPlane\\Details.cshtml",
+              "RelativeToolTip": "Views\\AeroPlane\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-20T21:07:45.079Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\Downloads\\ARS\\ARS\\Views\\AeroPlane\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\AeroPlane\\Create.cshtml",
+              "ToolTip": "C:\\Users\\HP\\Downloads\\ARS\\ARS\\Views\\AeroPlane\\Create.cshtml",
+              "RelativeToolTip": "Views\\AeroPlane\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-20T21:07:30.627Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "20250220203320_AdminLoginUpdate.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Downloads\\ARS\\ARS\\Migrations\\20250220203320_AdminLoginUpdate.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250220203320_AdminLoginUpdate.cs",
+              "ToolTip": "C:\\Users\\HP\\Downloads\\ARS\\ARS\\Migrations\\20250220203320_AdminLoginUpdate.cs",
+              "RelativeToolTip": "Migrations\\20250220203320_AdminLoginUpdate.cs",
+              "ViewState": "AgIAAPAAAAAAAAAAAAAYwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T20:33:21.298Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "20250219213033_InitialSetup.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Downloads\\ARS\\ARS\\Migrations\\20250219213033_InitialSetup.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250219213033_InitialSetup.cs",
+              "ToolTip": "C:\\Users\\HP\\Downloads\\ARS\\ARS\\Migrations\\20250219213033_InitialSetup.cs",
+              "RelativeToolTip": "Migrations\\20250219213033_InitialSetup.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T21:30:33.868Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\Downloads\\ARS\\ARS\\Views\\UserAccounts\\Details.cshtml",
+              "RelativeDocumentMoniker": "Views\\UserAccounts\\Details.cshtml",
+              "ToolTip": "C:\\Users\\HP\\Downloads\\ARS\\ARS\\Views\\UserAccounts\\Details.cshtml",
+              "RelativeToolTip": "Views\\UserAccounts\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-20T19:49:44.742Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\Downloads\\ARS\\ARS\\Views\\UserAccounts\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Views\\UserAccounts\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\HP\\Downloads\\ARS\\ARS\\Views\\UserAccounts\\Delete.cshtml",
+              "RelativeToolTip": "Views\\UserAccounts\\Delete.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-20T19:49:13.557Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\Downloads\\ARS\\ARS\\Views\\UserAccounts\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\UserAccounts\\Create.cshtml",
+              "ToolTip": "C:\\Users\\HP\\Downloads\\ARS\\ARS\\Views\\UserAccounts\\Create.cshtml",
+              "RelativeToolTip": "Views\\UserAccounts\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-20T19:47:54.229Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\Downloads\\ARS\\ARS\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\HP\\Downloads\\ARS\\ARS\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-19T23:27:47.709Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "ARS.csproj",
+              "DocumentMoniker": "C:\\Users\\HP\\Downloads\\ARS\\ARS\\ARS.csproj",
+              "RelativeDocumentMoniker": "ARS.csproj",
+              "ToolTip": "C:\\Users\\HP\\Downloads\\ARS\\ARS\\ARS.csproj",
+              "RelativeToolTip": "ARS.csproj",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-20T13:31:55.856Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\Downloads\\ARS\\ARS\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\HP\\Downloads\\ARS\\ARS\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-19T23:48:05.585Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "web.config",
+              "DocumentMoniker": "C:\\Users\\HP\\Downloads\\ARS\\ARS\\web.config",
+              "RelativeDocumentMoniker": "web.config",
+              "ToolTip": "C:\\Users\\HP\\Downloads\\ARS\\ARS\\web.config",
+              "RelativeToolTip": "web.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBpwEYAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-02-19T20:45:57.492Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{269a02dc-6af8-11d3-bdc4-00c04f688e50}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 117,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

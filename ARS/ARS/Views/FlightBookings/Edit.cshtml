@@ -1,0 +1,82 @@
+﻿@model ARS.Models.FlightBooking
+
+@{
+    ViewData["Title"] = "Edit";
+    Layout = "~/Views/Shared/_AdminLayoutPage.cshtml";
+}
+
+<h1>Edit</h1>
+
+<h4>FlightBooking</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Edit">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <input type="hidden" asp-for="bid" />
+            <div class="form-group">
+                <label asp-for="CusName" class="control-label"></label>
+                <input asp-for="CusName" class="form-control" />
+                <span asp-validation-for="CusName" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="CusAddress" class="control-label"></label>
+                <input asp-for="CusAddress" class="form-control" />
+                <span asp-validation-for="CusAddress" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="CusEmail" class="control-label"></label>
+                <input asp-for="CusEmail" class="form-control" />
+                <span asp-validation-for="CusEmail" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="CusSeat" class="control-label"></label>
+                <input asp-for="CusSeat" class="form-control" />
+                <span asp-validation-for="CusSeat" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="CusPhone" class="control-label"></label>
+                <input asp-for="CusPhone" class="form-control" />
+                <span asp-validation-for="CusPhone" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="CusCnic" class="control-label"></label>
+                <input asp-for="CusCnic" class="form-control" />
+                <span asp-validation-for="CusCnic" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="ResId" class="control-label"></label>
+                <input asp-for="ResId" class="form-control" />
+                <span asp-validation-for="ResId" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="bCusName" class="control-label"></label>
+                <input asp-for="bCusName" class="form-control" />
+                <span asp-validation-for="bCusName" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="DTime" class="control-label"></label>
+                <input asp-for="DTime" class="form-control" />
+                <span asp-validation-for="DTime" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Planeid" class="control-label"></label>
+                <input asp-for="Planeid" class="form-control" />
+                <span asp-validation-for="Planeid" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="SeatType" class="control-label"></label>
+                <input asp-for="SeatType" class="form-control" />
+                <span asp-validation-for="SeatType" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Save" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
+

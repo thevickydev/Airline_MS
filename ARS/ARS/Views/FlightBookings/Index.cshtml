@@ -1,0 +1,96 @@
+﻿@model IEnumerable<ARS.Models.FlightBooking>
+
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/_AdminLayoutPage.cshtml";
+}
+
+<h1>Index</h1>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.CusName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.CusAddress)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.CusEmail)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.CusSeat)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.CusPhone)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.CusCnic)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.ResId)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.bCusName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.DTime)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Planeid)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.SeatType)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.CusName)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.CusAddress)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.CusEmail)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.CusSeat)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.CusPhone)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.CusCnic)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.ResId)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.bCusName)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.DTime)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Planeid)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.SeatType)
+            </td>
+            <td>
+                <a asp-action="Edit" asp-route-id="@item.bid">Edit</a> |
+                <a asp-action="Details" asp-route-id="@item.bid">Details</a> |
+                <a asp-action="Delete" asp-route-id="@item.bid">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

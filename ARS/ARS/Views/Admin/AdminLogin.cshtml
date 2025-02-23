@@ -1,0 +1,42 @@
+﻿@model ARS.Models.AdminPanel
+
+@{
+    ViewData["Title"] = "Admin Login";
+}
+
+<div class="container d-flex justify-content-center align-items-center vh-100">
+    <div class="card shadow-lg p-4" style="width: 400px;">
+        <div class="card-body">
+            <h3 class="text-center text-primary mb-4">Admin Login</h3>
+
+            @if (ViewBag.m != null)
+            {
+                <div class="alert alert-danger text-center">@ViewBag.m</div>
+            }
+
+            <form asp-action="AdminLogin" method="post">
+                <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+
+                <div class="mb-3">
+                    <label asp-for="AdName" class="form-label fw-bold"></label>
+                    <input asp-for="AdName" class="form-control" placeholder="Enter Admin Name" />
+                    <span asp-validation-for="AdName" class="text-danger"></span>
+                </div>
+
+                <div class="mb-3">
+                    <label asp-for="Password" class="form-label fw-bold"></label>
+                    <input asp-for="Password" type="password" class="form-control" placeholder="Enter Password" />
+                    <span asp-validation-for="Password" class="text-danger"></span>
+                </div>
+
+                <div class="d-grid">
+                    <button type="submit" class="btn btn-primary">Login</button>
+                </div>
+            </form>
+
+            <div class="text-center mt-3">
+                <a asp-action="Index" class="text-decoration-none">Back to Home</a>
+            </div>
+        </div>
+    </div>
+</div>

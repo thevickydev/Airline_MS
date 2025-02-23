@@ -1,0 +1,33 @@
+﻿@model ARS.Models.TicketReserve_tbl
+
+@{
+    ViewData["Title"] = "View";
+    Layout = "~/Views/Shared/_UserLayoutPage.cshtml";
+}
+
+<form asp-controller="user" asp-action="BookFlight" method="post">
+    <input type="hidden" name="flightId" value="@Model.ResId" />
+
+    <label>From</label>
+    <input class="form-control" value="@Model.From" readonly />
+
+    <label>To</label>
+    <input class="form-control" value="@Model.To" readonly />
+
+    <label>Departure Date</label>
+    <input class="form-control" value="@Model.ResDate" readonly />
+
+    <label>Flight Time</label>
+    <input class="form-control" value="@Model.ResFtime" readonly />
+
+    <label>Seats Available</label>
+    <input class="form-control" value="@Model.PlaneSeat" readonly />
+
+    <label>Ticket Price</label>
+    <input class="form-control" value="@Model.ResTicketPrice" readonly />
+
+    <label>Number of Seats to Book</label>
+    <input name="seatCount" type="number" min="1" max="@Model.PlaneSeat" class="form-control" required />
+
+    <button type="submit" class="btn btn-primary">Confirm Booking</button>
+</form>

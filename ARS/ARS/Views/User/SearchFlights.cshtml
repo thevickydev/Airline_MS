@@ -1,0 +1,44 @@
+﻿@model IEnumerable<ARS.Models.TicketReserve_tbl>
+
+@{
+    ViewData["Title"] = "Search Flights";
+    Layout = "~/Views/Shared/_UserLayoutPage.cshtml";
+}
+
+<h1>Search Flights</h1>
+
+<table class="table table-bordered">
+    <thead>
+        <tr>
+            <th>From</th>
+            <th>To</th>
+            <th>Departure Date</th>
+            <th>Flight Time</th>
+            <th>Plane ID</th>
+            <th>Seats Available</th>
+            <th>Price</th>
+            <th>Plane Type</th>
+            <th>Action</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var flight in Model)
+        {
+            <tr>
+                <td>@flight.From</td>
+                <td>@flight.To</td>
+                <td>@flight.ResDate</td>
+                <td>@flight.ResFtime</td>
+                <td>@flight.PlaneId</td>
+                <td>@flight.PlaneSeat</td>
+                <td>@flight.ResTicketPrice</td>
+                <td>@flight.ResPlaneType</td>
+                <td>
+                    <a asp-action="BookFlight" asp-route-flightId="@flight.ResId" class="btn btn-success">Book Now</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+<a asp-action="Index" class="btn btn-primary">Back to List</a>

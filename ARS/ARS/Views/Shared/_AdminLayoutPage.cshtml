@@ -1,0 +1,174 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>@ViewBag.Title</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+            font-family: Arial, sans-serif;
+        }
+
+        body {
+            display: flex;
+            width: 100vw;
+            height: 100vh;
+            background: #F0F4F8;
+        }
+
+        .submenu li a {
+            color: white;
+            text-decoration: none; /* Removes underline */
+        }
+
+            .submenu li a:hover {
+                color: #00BCD4; /* Light cyan on hover */
+            }
+
+
+        .sidebar {
+            width: 250px;
+            background: #1E2A38; /* Dark Shady Blue */
+            color: white;
+            height: 100vh;
+            padding: 20px;
+        }
+
+            .sidebar h2 {
+                margin-bottom: 20px;
+                color: #00BCD4; /* Light cyan */
+            }
+
+            .sidebar ul {
+                list-style: none;
+            }
+
+                .sidebar ul li {
+                    padding: 12px;
+                    cursor: pointer;
+                    font-size: 16px;
+                    position: relative;
+                    transition: background 0.3s ease;
+                }
+
+                    .sidebar ul li:hover {
+                        background: #2C3E50; /* Darker blue shade */
+                    }
+
+        /* Correct submenu positioning */
+        .submenu {
+            display: none;
+            flex-direction: column;
+            background: #2C3E50;
+            margin-left: 15px; /* Indent */
+            padding: 0;
+        }
+
+            .submenu li {
+                padding: 10px 15px;
+                font-size: 14px;
+                transition: background 0.3s ease;
+            }
+
+                .submenu li:hover {
+                    background: #37495D;
+                }
+
+        /* Display submenu correctly */
+        .sidebar ul li.active .submenu {
+            display: flex;
+        }
+
+        /* Arrow styling */
+        .arrow {
+            float: right;
+            transition: transform 0.3s ease;
+        }
+
+        .sidebar ul li.active .arrow {
+            transform: rotate(90deg);
+        }
+
+        .main-content {
+            flex: 1;
+            display: flex;
+            flex-direction: column;
+            width: calc(100vw - 250px);
+        }
+
+        .topbar {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            background: #F8F9FA; /* Off-White */
+            padding: 15px 25px;
+            color: black;
+            box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.1);
+        }
+
+            .topbar input {
+                padding: 8px;
+                border: 1px solid #ccc;
+                border-radius: 5px;
+                width: 200px;
+            }
+
+        .content {
+            flex: 1;
+            padding: 20px;
+        }
+    </style>
+    <script>
+        document.addEventListener("DOMContentLoaded", function () {
+            document.querySelectorAll(".sidebar ul li").forEach(function (item) {
+                item.addEventListener("click", function (event) {
+                    let submenu = this.querySelector(".submenu");
+                    let arrow = this.querySelector(".arrow");
+
+                    if (submenu) {
+                        event.stopPropagation(); // Prevents closing when clicking submenu items
+                        submenu.style.display = submenu.style.display === "flex" ? "none" : "flex";
+                        arrow.style.transform = submenu.style.display === "flex" ? "rotate(90deg)" : "rotate(0deg)";
+                    }
+                });
+            });
+        });
+    </script>
+</head>
+
+<body>
+    <div class="sidebar">
+        <h2>ARS</h2>
+        <ul>
+            <li>@Html.ActionLink("Users", "Index", "UserAccounts")</li>
+            <li>
+                Aeroplane <span class="arrow">▶</span>
+                <ul class="submenu">
+                    <li>@Html.ActionLink("Add Plane", "Create", "AeroPlane")</li>
+                    <li>@Html.ActionLink("View Details", "Index", "AeroPlane")</li>
+                </ul>
+            </li>
+            <li>
+                Flight <span class="arrow">▶</span>
+                <ul class="submenu">
+                    <li >@Html.ActionLink("Add Flight","Create","TicketReserve_tbl")</li>
+                    <li>@Html.ActionLink("Flight Details", "Index", "TicketReserve_tbl")</li>
+                </ul>
+            </li>
+        </ul>
+    </div>
+
+    <div class="main-content">
+        <div class="topbar">
+            <input type="text" placeholder="Search...">
+            <div>@Html.ActionLink("Users", "Index", "UserAccounts")</div>
+        </div>
+
+        <div class="content">
+            @RenderBody()
+        </div>
+    </div>
+</body>
+</html>

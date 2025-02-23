@@ -1,0 +1,23 @@
+﻿@model ARS.Models.UserAccount
+@{
+    ViewData["Title"] = "login";
+    Layout = "~/Views/Shared/_UserLayoutPage.cshtml";
+}
+
+
+<h2>User Login</h2>
+@if (ViewBag.Error != null)
+{
+    <div class="alert alert-danger">@ViewBag.Error</div>
+}
+
+<form asp-controller="user" asp-action="Login" method="post">
+    <label>Email</label>
+    <input name="Email" class="form-control" required />
+
+    <label>Password</label>
+    <input name="Password" type="password" class="form-control" required />
+
+    <button type="submit" class="btn btn-primary">Login</button>
+</form>
+

@@ -1,0 +1,95 @@
+﻿@model List<ARS.Models.Flight>
+
+@{
+    ViewData["Title"] = "SearchResults";
+    Layout = "~/Views/Shared/_AdminLayoutPage.cshtml";
+}
+
+<h1>Search Results</h1>
+
+@foreach (var flight in Model)
+{
+    <div>
+        <h4>Flight</h4>
+        <hr />
+        <dl class="row">
+            <dt class="col-sm-2">
+                @Html.DisplayNameFor(model => model.First().CusName)
+            </dt>
+            <dd class="col-sm-10">
+                @flight.CusName
+            </dd>
+            <dt class="col-sm-2">
+                @Html.DisplayNameFor(model => model.First().CusEmail)
+            </dt>
+            <dd class="col-sm-10">
+                @flight.CusEmail
+            </dd>
+            <dt class="col-sm-2">
+                @Html.DisplayNameFor(model => model.First().CusPhone)
+            </dt>
+            <dd class="col-sm-10">
+                @flight.CusPhone
+            </dd>
+            <dt class="col-sm-2">
+                @Html.DisplayNameFor(model => model.First().CusCnic)
+            </dt>
+            <dd class="col-sm-10">
+                @flight.CusCnic
+            </dd>
+            <dt class="col-sm-2">
+                @Html.DisplayNameFor(model => model.First().From)
+            </dt>
+            <dd class="col-sm-10">
+                @flight.From
+            </dd>
+            <dt class="col-sm-2">
+                @Html.DisplayNameFor(model => model.First().To)
+            </dt>
+            <dd class="col-sm-10">
+                @flight.To
+            </dd>
+            <dt class="col-sm-2">
+                @Html.DisplayNameFor(model => model.First().DepartureTime)
+            </dt>
+            <dd class="col-sm-10">
+                @flight.DepartureTime
+            </dd>
+            <dt class="col-sm-2">
+                @Html.DisplayNameFor(model => model.First().PlaneId)
+            </dt>
+            <dd class="col-sm-10">
+                @flight.PlaneId
+            </dd>
+            <dt class="col-sm-2">
+                @Html.DisplayNameFor(model => model.First().PlaneSeat)
+            </dt>
+            <dd class="col-sm-10">
+                @flight.PlaneSeat
+            </dd>
+            <dt class="col-sm-2">
+                @Html.DisplayNameFor(model => model.First().TicketPrice)
+            </dt>
+            <dd class="col-sm-10">
+                @flight.TicketPrice
+            </dd>
+            <dt class="col-sm-2">
+                @Html.DisplayNameFor(model => model.First().SeatType)
+            </dt>
+            <dd class="col-sm-10">
+                @flight.SeatType
+            </dd>
+            <dt class="col-sm-2">
+                @Html.DisplayNameFor(model => model.First().UserAccount)
+            </dt>
+            <dd class="col-sm-10">
+                @flight.UserAccount?.CNo
+            </dd>
+        </dl>
+    </div>
+    <div>
+        <a asp-action="Edit" asp-route-id="@flight.BookingId">Edit</a> |
+        <a asp-action="Index">Back to List</a>
+    </div>
+    <hr />
+}

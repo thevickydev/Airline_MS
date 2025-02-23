@@ -1,0 +1,141 @@
+
+/* General Styles */
+body {
+    font-family: 'Arial', sans-serif;
+    line-height: 1.6;
+}
+
+/* Hero Section with Carousel */
+.hero {
+    position: relative;
+    margin-bottom: 50px;
+}
+
+.hero .carousel-item {
+    height: 100vh;
+}
+
+.hero .carousel-item img {
+    height: 100%;
+    object-fit: cover;
+    width: 100%;
+}
+
+.hero .carousel-caption {
+    background: rgba(0, 0, 0, 0.6);
+    padding: 2rem;
+    border-radius: 10px;
+    max-width: 800px;
+    margin: 0 auto;
+    bottom: 50%;
+    transform: translateY(50%);
+}
+
+.hero .carousel-caption h1 {
+    font-size: 3.5rem;
+    margin-bottom: 1rem;
+}
+
+.hero .carousel-caption .lead {
+    font-size: 1.5rem;
+    margin-bottom: 2rem;
+}
+
+/* Quick Search */
+.quick-search {
+    margin-top: -100px;
+    position: relative;
+    z-index: 100;
+}
+
+/* Card Styles */
+.card {
+    transition: transform 0.3s ease;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+.card:hover {
+    transform: translateY(-5px);
+}
+
+/* Form Styles */
+.form-control:focus, .form-select:focus {
+    border-color: #0d6efd;
+    box-shadow: 0 0 0 0.25rem rgba(13, 110, 253, 0.25);
+}
+
+/* Flight Results */
+.flight-list {
+    gap: 20px;
+}
+
+.flight-card {
+    border: 1px solid #dee2e6;
+    border-radius: 8px;
+    padding: 20px;
+    margin-bottom: 20px;
+    background-color: #fff;
+    transition: transform 0.3s ease;
+}
+
+.flight-card:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+/* Destination Cards */
+.destination-card img {
+    height: 200px;
+    object-fit: cover;
+}
+
+/* Testimonial Cards */
+.testimonial-card {
+    background: #fff;
+    border-radius: 10px;
+}
+
+.testimonial-card img {
+    width: 100px;
+    height: 100px;
+    object-fit: cover;
+}
+
+/* Comment Section */
+#commentsList .card {
+    transition: transform 0.2s ease;
+}
+
+#commentsList .card:hover {
+    transform: translateY(-3px);
+}
+
+/* Modal Styles */
+.modal-content {
+    border-radius: 10px;
+}
+
+/* Responsive Adjustments */
+@media (max-width: 768px) {
+    .hero .carousel-item {
+        height: 70vh;
+    }
+    
+    .hero .carousel-caption {
+        padding: 1rem;
+        bottom: 20%;
+        transform: translateY(0);
+    }
+    
+    .hero .carousel-caption h1 {
+        font-size: 2rem;
+    }
+    
+    .hero .carousel-caption .lead {
+        font-size: 1.2rem;
+    }
+
+    .quick-search {
+        margin-top: 0;
+    }
+}
